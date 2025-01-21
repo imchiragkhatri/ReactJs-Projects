@@ -1,0 +1,62 @@
+[
+    {"slug":"home","name":"Home","url":""},
+    
+    {
+        "name": "Men",
+        "items": [
+            {"slug":"mens-shirts","name":"Mens Shirts","url":"mens-shirts"},
+            {"slug":"mens-shoes","name":"Mens Shoes","url":"mens-shoes"},
+            {"slug":"mens-watches","name":"Mens Watches","url":"mens-watches"}
+        ]
+    },
+
+    {
+        "name": "Women",
+        "items": [
+            {"slug":"beauty","name":"Beauty","url":"beauty"},
+            {"slug":"womens-bags","name":"Womens Bags","url":"womens-bags"},
+            {"slug":"womens-dresses","name":"Womens Dresses","url":"womens-dresses"},
+            {"slug":"womens-jewellery","name":"Womens Jewellery","url":"womens-jewellery"},
+            {"slug":"womens-shoes","name":"Womens Shoes","url":"womens-shoes"},
+            {"slug":"womens-watches","name":"Womens Watches","url":"womens-watches"},
+            {"slug":"tops","name":"Tops","url":"tops"}
+        ]
+    },
+   
+    {
+        "name": "Home & Kitchen",
+        "items": [
+            {"slug":"home-decoration","name":"Home Decoration","url":"home-decoration"},
+            {"slug":"furniture","name":"Furniture","url":"furniture"},
+            {"slug":"kitchen-accessories","name":"Kitchen Accessories","url":"kitchen-accessories"},
+            {"slug":"groceries","name":"Groceries","url":"groceries"}
+        ]
+    },
+    {
+        "name": "Eletronics",
+        "items": [
+            {"slug":"laptops","name":"Laptops","url":"laptops"},
+            {"slug":"tablets","name":"Tablets","url":"tablets"},
+            {"slug":"smartphones","name":"Smartphones","url":"smartphones"}
+        ]
+    },
+    {"slug":"fragrances","name":"Fragrances","url":"fragrances"},
+    {"slug":"skin-care","name":"Skin Care","url":"skin-care"},
+    {"slug":"sunglasses","name":"Sunglasses","url":"sunglasses"},
+    {
+        "name": "Accessories",
+        "items": [
+            
+            {"slug":"mobile-accessories","name":"Mobile Accessories","url":"mobile-accessories"},
+            {"slug":"sports-accessories","name":"Sports Accessories","url":"sports-accessories"}
+        ]
+    },
+    
+    {
+        "name":"Vehicle",
+        "items": [
+            {"slug":"motorcycle","name":"Motorcycle","url":"motorcycle"},
+            {"slug":"vehicle","name":"Car","url":"vehicle"}
+        ]
+    }
+    ]
